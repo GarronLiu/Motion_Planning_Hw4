@@ -56,3 +56,12 @@ roslaunch grid_path_searcher demo.launch
     <img src="./picture/code3.png" alt="drawing" width="600"/>
 </p>
 
+## OBVP求解最优代价推导过程
+
+推导过程是基于Matlab的符号运算功能
+
+<p align='center'>
+    <img src="./picture/code4.png" alt="drawing" width="600"/>
+</p>
+
+
