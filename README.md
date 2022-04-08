@@ -38,28 +38,21 @@ roslaunch grid_path_searcher demo.launch
 
 # Main code change
 
-## 重新选择父节点代码
+## 轨迹生成代码
 
 <p align='center'>
     <img src="./picture/code1.png" alt="drawing" width="600"/>
 </p>
 
-## 重布线随机树过程
+## 最优代价估计代码
+
+<p align='center'>
+    <img src="./picture/code2.png" alt="drawing" width="600"/>
+</p>
+
+## 转移代价计算
 
 <p align='center'>
     <img src="./picture/code3.png" alt="drawing" width="600"/>
 </p>
-
-## 三维椭圆体内均匀采样
-
-<p align='center'>
-    <img src="./picture/code4.png" alt="drawing" width="600"/>
-</p>
-
-单位球体内均匀采样公式：
-
-<p align='center'>
-    <img src="./picture/equation1.png" alt="drawing" width="750"/>
-</p>
-ξ_i 服从单位均匀分布。
 
