@@ -33,7 +33,8 @@ roslaunch grid_path_searcher demo.launch
     <img src="./picture/image_2.png" alt="drawing" width="750"title="第二次设置目标点"/>
 </p>
 
-红色轨迹受障碍物阻挡，蓝色为可行轨迹，绿色表示末端到目标点代价最小（基于OBVP求解）的轨迹
+红色轨迹受障碍物阻挡，蓝色为可行轨迹，绿色表示末端到目标点代价最小（基于OBVP求解）的轨迹；
+目标点变化后，可见绿色轨迹也发生了改变。
 
 # Main code change
 
